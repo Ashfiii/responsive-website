@@ -53,7 +53,7 @@ body{
     letter-spacing: 0.5px;
 }
 .header li a:hover{
-    color:#af3ce4
+    color:sandybrown
 }
 li{
     display:inline;
@@ -458,7 +458,9 @@ li{
     .right-content{width: 100%;} 
     .form-section .form-content{width:100%} 
     .form-content:first-child {padding-right: 0;} 
-    
+    .header li a:hover{
+    color: sandybrown
+}
 }
 @media only screen and (max-width:600px){
     .border-top{opacity:0}
