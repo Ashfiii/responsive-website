@@ -1,7 +1,7 @@
 {
   "name": "carrie-junior",
   "version": "1.0.0",
-  "description": "Responsive website",
+  "description": "Full Responsive website",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "Ashfaque Alam",
   "license": "ISC",
-  "homepage": "https://github.com/Ashfiii/responsive-website.git",
+  "homepage": "https://github.com/Ashfiii/full-responsive-website.git",
   "dependencies": {
     "gh-pages": "^3.1.0"
   }
